@@ -73,7 +73,7 @@ tshark -r capture_dns.pcap
 
 <img width="1044" height="103" alt="image" src="https://github.com/user-attachments/assets/75046069-d639-45bc-abf7-5d930b14e532" />
 
-### 📦 Resultados Observados
+## 📦 Resultados Observados
 
 Durante a análise, foram identificados:
 
